@@ -1,6 +1,7 @@
 # Dr-Koo-Medical-Database
 2021 @didumfernando, timothy chai wei jie, pranav and dharshan
-##Description
+
+## Description
 
 This project is a Medical Database which was done as a project tasked by a doctor from NUH Cardiology Unit, Dr Koo. Our App allows doctors to drag and drop their excel sheets containing patient data and the code instantly calculates the risk score of the patient based on the algorithm and requirements shown in Figure 1. The doctor is then allowed to add or delete patients from the database which deletes the patient also from the excel file as well and the risk score of the patients are calculated and also appended to excel file and not only shown on the front-end.
 
