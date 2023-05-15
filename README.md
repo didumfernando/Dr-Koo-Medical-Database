@@ -3,13 +3,16 @@
 
 ## Description
 
-This project is a Medical Database which was done as a project tasked by a doctor from NUH Cardiology Unit, Dr Koo. Our App allows doctors to drag and drop their excel sheets containing patient data and the code instantly calculates the risk score of the patient based on the algorithm and requirements shown in Figure 1. The doctor is then allowed to add or delete patients from the database which deletes the patient also from the excel file as well and the risk score of the patients are calculated and also appended to excel file and not only shown on the front-end.
+This project is a Medical Database that was done as a project task by a doctor from NUH Cardiology Unit, Dr. Koo. Our App allows doctors to drag and drop their Excel sheets containing patient data and the code instantly calculates the risk score of the patient based on the algorithm and requirements shown in Figure 1. The doctor is then allowed to add or delete patients from the database which deletes the patient also from the Excel file as well and the risk score of the patients is calculated and also appended to the Excel file and not only shown on the front end.
 
 <img width="325" alt="Screenshot 2023-05-15 at 10 54 25 AM" src="https://github.com/didumfernando/Dr-Koo-Medical-Database/assets/118650079/44b6b293-8701-45e4-8615-026f6627b93c">
 
 (Figure 1)
 
 ## Guide on Using App which is found in the app as well
+
+Video App Demonstration & Guide: https://youtu.be/JDwa-lAnAWc
+
 ![main help](https://github.com/didumfernando/Dr-Koo-Medical-Database/assets/118650079/244c2b01-568d-4d78-bfb5-026941fe3ef5)
 
 (Main Help)
@@ -20,4 +23,5 @@ This project is a Medical Database which was done as a project tasked by a docto
 
 ## Running of project
 To run the project you, we would need to install the certain libraries using pip install and then run the file main.py locally.
+
 
